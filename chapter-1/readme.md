@@ -8,18 +8,17 @@
 
 ``` go help ```
 
-##### Executar código escrito em 
+##### Executar código
 
 ``` go run path/arquivo.go```
 
-##### Adicionar comentário simples em 
+##### Adicionar comentário simples no código 
 
 ```
 // isso é um comentário
 
 ```
-
-##### Adicionar comentário em bloco
+##### Adicionar comentário em bloco no código
 
 ```
 /*
